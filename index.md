@@ -1,4 +1,4 @@
-## Courses given in English for Zoology Students
+## Courses given in English for Zoology Students in Israel
 
 This list includes programs and courses given in English that may be relevant to foreign students:
 
