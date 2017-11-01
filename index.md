@@ -7,6 +7,5 @@ This list includes programs and courses given in English that may be relevant to
 3. All courses in [Weizmann Institute](https://www.weizmann.ac.il/feinberg/academics/about-courses).
 4. All courses in Tel Aviv University's [School of Environmental Science](https://en-environment.tau.ac.il/International/Courses)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
