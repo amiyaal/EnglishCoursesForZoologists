@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Courses in English for Zoology Students in Israel
 
-You can use the [editor on GitHub](https://github.com/amiyaal/EnglishCoursesForZoologists/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This list includes programs and courses given in English that may be relevant to foreign students:
+
+1. All courses at the [International School for Desert Studies](http://in.bgu.ac.il/en/akis/Pages/default.aspx) (Ben Gurion University's Sde Boker campus)
+2. All grad-level courses in Tel Aviv University's Faculty of Life Sciences.
+3. All courses in [Weizmann Institute](https://www.weizmann.ac.il/feinberg/academics/about-courses).
+4. All courses in Tel Aviv University's [School of Environmental Science](https://en-environment.tau.ac.il/International/Courses)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amiyaal/EnglishCoursesForZoologists/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
